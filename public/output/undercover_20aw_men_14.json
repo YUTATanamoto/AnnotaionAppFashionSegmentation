@@ -1,0 +1,43 @@
+{
+  "undercover_20aw_men_14.jpg": [
+    {
+      "startTime": 1579974895090,
+      "endTime": 1579974914326,
+      "editLog": [
+        {
+          "editor": "nishikawa",
+          "operation": "draw",
+          "color": "#00F",
+          "coordinates": [
+            [
+              364,
+              201.8
+            ],
+            [
+              362.8,
+              201
+            ]
+          ]
+        },
+        {
+          "editor": "nishikawa",
+          "operation": "fill",
+          "color": "#00F",
+          "coordinate": [
+            340,
+            201
+          ]
+        },
+        {
+          "editor": "nishikawa",
+          "operation": "fill",
+          "color": "#0F0",
+          "coordinate": [
+            333,
+            212
+          ]
+        }
+      ]
+    }
+  ]
+}
